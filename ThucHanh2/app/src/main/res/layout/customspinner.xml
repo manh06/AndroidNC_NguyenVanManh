@@ -1,0 +1,9 @@
+<!--suppress AndroidUnresolvableTag -->
+<com.example.customviews.CustomSpinner xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/customSpinner"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:spinnerColor="@android:color/holo_green_light"
+    tools:ignore="MissingClass" />

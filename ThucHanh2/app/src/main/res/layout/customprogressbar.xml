@@ -1,0 +1,7 @@
+<!--suppress AndroidUnresolvableTag -->
+<com.example.customviews.customprogressbar xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/customProgressBar"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingClass" />
